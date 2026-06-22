@@ -1,3 +1,4 @@
 payload:
-  - '+.test.inemby.us.ci'
-  - '+.111660.xyz'
+  - DOMAIN-SUFFIX,'+.test.inemby.us.ci'
+  - DOMAIN-SUFFIX,'+.111660.xyz'
+  - PROCESS-NAME,HillsPlayer.exe
