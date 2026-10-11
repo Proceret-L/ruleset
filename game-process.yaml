@@ -3,3 +3,4 @@ payload:
   - PROCESS-NAME,deadlock.exe
   - PROCESS-NAME,marathon.exe
   - PROCESS-NAME,warframe.x64.exe
+  - PROCESS-NAME,BEService.exe
