@@ -1,0 +1,5 @@
+payload:
+  - PROCESS-NAME,destiny2.exe
+  - PROCESS-NAME,deadlock.exe
+  - PROCESS-NAME,marathon.exe
+  - PROCESS-NAME,warframe.x64.exe
